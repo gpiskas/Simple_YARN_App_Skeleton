@@ -21,25 +21,25 @@ The simple script included builds the required YARNAPP.jar that contain the four
 
 Example Log Output:
 
-Client: Initializing
-Client: Submitting application_1426756669209_0005
+Client: Initializing <br>
+Client: Submitting application_1426756669209_0005 <br>
 Client: Finished application_1426756669209_0005 with state FINISHED
 
-AppMaster: Initializing
-AppMaster: Registered
-AppMaster: Requesting 3 Containers
+AppMaster: Initializing <br>
+AppMaster: Registered <br>
+AppMaster: Requesting 3 Containers <br>
 AppMaster: Unregistered
 
-Container: Initializing
-Hello World!
+Container: Initializing <br>
+Hello World! <br>
 Container: Finalizing
 
-Container: Initializing
-Hello World!
+Container: Initializing <br>
+Hello World! <br>
 Container: Finalizing
 
-Container: Initializing
-Hello World!
+Container: Initializing <br>
+Hello World! <br>
 Container: Finalizing
 
 Simple YARN Application Skeleton <br> (C) 2015 George Piskas, Philémon Favrod
